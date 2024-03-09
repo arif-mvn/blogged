@@ -1,0 +1,16 @@
+{
+    "name": "arifulislamrana/blogged",
+    "description": "Laravel package to create CRUD for blog section",
+    "autoload": {
+        "psr-4": {
+            "Arifulislamrana\\Blogged\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ariful Islam",
+            "email": "ariful.islam0683@gmail.com"
+        }
+    ],
+    "require": {}
+}
